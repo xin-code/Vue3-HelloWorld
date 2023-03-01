@@ -1,5 +1,9 @@
 import { createApp } from 'vue'
+
+// 引入pinia
 import { createPinia } from 'pinia'
+
+// 引入ElementPlus
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 
